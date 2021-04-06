@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Raleway:wght@600&family=Roboto&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.navbar-light .navbar-brand{
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	color: #696969;
+	font-weight: bold;
+}
+
+.navbar-light .navbar-brand:hover{
+	color: #0000CD;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+	color: #000000;
+}
+.bg-bergen {
+	background:#5F9EA0;
+}
+
+.text-insta {
+	color: #9400D3;
+}
+.text-whats {
+	color: #32CD32;
+}
+.text-youtube{
+	color: #FF0000;
+}
+
+.navbar{
+	font-family: 'Raleway', sans-serif;
+}
+
+.text-shadow{
+	text-shadow: 2px 2px #363636;
+}
